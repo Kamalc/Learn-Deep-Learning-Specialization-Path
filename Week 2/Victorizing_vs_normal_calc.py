@@ -1,6 +1,7 @@
 import numpy as np
 import time
 
+
 a = np.random.rand(1000000)
 b = np.random.rand(1000000)
 
