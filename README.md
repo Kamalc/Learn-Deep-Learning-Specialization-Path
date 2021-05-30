@@ -25,7 +25,7 @@
 
 #### 2.1 Python and Vectorization
    - [x] 2.1.1 Vectorization
-   - [ ] 2.1.2 More Vectorization Examples
+   - [x] 2.1.2 More Vectorization Examples
    - [ ] 2.1.3 Vectorizing Logistic Regression
    - [ ] 2.1.4 Vectorizing Logistic Regression's Gradient Output
    - [ ] 2.1.5 Broadcasting in Python
