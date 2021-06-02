@@ -9,6 +9,6 @@ print(A)
 cal = A.sum(axis=0)
 print(cal)
 
-percentage = A/cal.reshape(1, 4)  # we may not need to use reshape cause it's already 1 * 4
+percentage = 100 * A/cal.reshape(1, 4)  # we don't need to call reshape cause it's already 1 * 4
 
 print(percentage)

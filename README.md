@@ -7,7 +7,7 @@
    - [x] 1.3 Supervised Learning with Neural Networks
    - [x] 1.4 Why is Deep Learning taking off
    - [x] 1.5 About this Course
-   - [x] 1.6 Geoffrey Hinton Interview
+   - [ ] 1.6 Geoffrey Hinton Interview
 
 
 ### Week 2 Neural Networks Basics
@@ -29,9 +29,9 @@
    - [x] 2.1.3 Vectorizing Logistic Regression
    - [x] 2.1.4 Vectorizing Logistic Regression's Gradient Output
    - [x] 2.1.5 Broadcasting in Python
-   - [ ] 2.1.6 A Note on Python Numpy Vectors
-   - [ ] 2.1.7 Quick tour of Jupyter iPython Notebooks
-   - [ ] 2.1.8 Explanation of Logistic Regression Cost Function (Optional)
+   - [x] 2.1.6 A Note on Python Numpy Vectors
+   - [x] 2.1.7 Quick tour of Jupyter iPython Notebooks
+   - [x] 2.1.8 Explanation of Logistic Regression Cost Function (Optional)
    - [ ] 2.1.9 Pieter Abbeel Interview
    
 ### Week 3 Shallow Neural Networks
