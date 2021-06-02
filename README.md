@@ -35,4 +35,27 @@
    - [ ] 2.1.9 Pieter Abbeel Interview
    
 ### Week 3 Shallow Neural Networks
-   - [ ] not start yet 
+   - [ ] 3.1 Neural Networks Overview
+   - [ ] 3.2 Neural Network Representation
+   - [ ] 3.3 Computing a Neural Network's Output
+   - [ ] 3.4 Vectorizing Across Multiple Examples
+   - [ ] 3.5 Explanation for Vectorized Implementation
+   - [ ] 3.6 Activation Functions
+   - [ ] 3.7 Why do you need Non-Linear Activation Functions
+   - [ ] 3.8 Derivatives of Activation Functions
+   - [ ] 3.9 Gradient Descent for Neural Networks
+   - [ ] 3.10 Backpropagation Intuition (Optional)
+   - [ ] 3.11 Random Initialization
+   - [ ] 3.12 Ian Goodfellow Interview
+
+### Week 4 Deep Neural Networks
+   - [ ] 4.1 Deep L-layer Neural 
+   - [ ] 4.2 Forward Propagation in a Deep 
+   - [ ] 4.3 Getting your Matrix Dimensions 
+   - [ ] 4.4 Why Deep Representations
+   - [ ] 4.5 Building Blocks of Deep Neural Networks
+   - [ ] 4.6 Forward and Backward Propagation
+   - [ ] 4.7 Parameters vs Hyperparameters
+   - [ ] 4.8 What does this have to do with the brain
+   
+   
