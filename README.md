@@ -25,10 +25,10 @@
 
 #### 2.1 Python and Vectorization
    - [x] 2.1.1 Vectorization
-   - [ ] 2.1.2 More Vectorization Examples
-   - [ ] 2.1.3 Vectorizing Logistic Regression
-   - [ ] 2.1.4 Vectorizing Logistic Regression's Gradient Output
-   - [ ] 2.1.5 Broadcasting in Python
+   - [x] 2.1.2 More Vectorization Examples
+   - [x] 2.1.3 Vectorizing Logistic Regression
+   - [x] 2.1.4 Vectorizing Logistic Regression's Gradient Output
+   - [x] 2.1.5 Broadcasting in Python
    - [ ] 2.1.6 A Note on Python Numpy Vectors
    - [ ] 2.1.7 Quick tour of Jupyter iPython Notebooks
    - [ ] 2.1.8 Explanation of Logistic Regression Cost Function (Optional)
